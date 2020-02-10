@@ -8,7 +8,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.*;
 
 
-//Hamcrest 风格断言，更贴近英语
+//Hamcrest 风格断言，更贴近英语，更新
 class HamcrestAssertionTest {
 
     @Test
